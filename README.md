@@ -1,2 +1,8 @@
-# Amazon-Sales-Data-Analysis-Dashboard
-A Power BI dashboard analyzing Amazon sales metrics.
+# Amazon Sales Data Analysis
+
+## Dashboard Preview
+![Dashboard](Dashboard.png)
+
+## Key Insights
+- Total Revenue: $78.59M
+- Total Quantity Sold: 117K
